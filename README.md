@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Eunseo</h1>
-<h3 align="left">A passionate developer</h3>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
