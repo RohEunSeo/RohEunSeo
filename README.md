@@ -19,7 +19,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=esroh_1124)](https://solved.ac/esroh_1124)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=esroh_1124&theme=(warm))
-<img src="http://mazandi.herokuapp.com/api?handle=esroh_1124&theme=warm"/>
+
 
 
 <h3 align="left">Languages and Tool:</h3>  
