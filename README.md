@@ -14,13 +14,12 @@
 <a href="https://instagram.com/roh_715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roh_715" height="30" width="40" /></a>
 </p>
 
-pip install -r requirements.txt
-python manage.py runserver # 서버 실행
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={esroh_1124})](https://solved.ac/{esroh_1124})
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={esroh_1124}&theme=(warm))
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=esroh_1124)](https://solved.ac/esroh_1124)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=esroh_1124&theme=(warm))
+<img src="http://mazandi.herokuapp.com/api?handle=esroh_1124&theme=warm"/>
 
 
 <h3 align="left">Languages and Tool:</h3>  
