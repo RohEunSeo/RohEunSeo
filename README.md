@@ -14,8 +14,7 @@
 <a href="https://instagram.com/roh_715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roh_715" height="30" width="40" /></a>
 </p>
 
-pip install -r requirements.txt
-uvicorn main:app --reload
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
 
