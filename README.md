@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roheunseo&label=Profile%20views&color=0e75b6&style=flat" alt="roheunseo" /> </p>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=esroh_1124)](https://solved.ac/esroh_1124)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=esroh1124)](https://solved.ac/esroh_1124)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=esroh_1124&theme=(warm))
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=esroh1124&theme=(warm))
 
 
 
