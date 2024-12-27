@@ -1,10 +1,4 @@
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=esroh1124)](https://solved.ac/esroh_1124)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=esroh1124&theme=(warm))
-
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/RohEunSeo"
