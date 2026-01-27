@@ -44,7 +44,7 @@
 | Date | Award | Organization | Rank |
 | :--- | :--- | :--- | :--- |
 | 2024.07 | **RE-DESIGN THON 메이커톤 대상 ('지니어스 빗물받이')**  | 서울과학기술대학교 | **1st** / 10팀  |
-| 2025.08 | **AI융합학부 IT 경진대회 대상 ('스마트 AIoT 포스기)**  | 성신여자대학교  | **1st** / 20팀  |
+| 2025.08 | **AI융합학부 IT 경진대회 대상 ('스마트 AIoT 포스기')**  | 성신여자대학교  | **1st** / 20팀  |
 | 2025.09 | **LGAimers 7기 Phase 3 본선 진출** | LG AI 연구원 | **18위** / 817팀  |
 
 
@@ -52,6 +52,6 @@
 
 
 ## 📮 Contact & Links
-![Email](https://img.shields.io/badge/Email-esroh1124@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)  ![Blog](https://img.shields.io/badge/Blog-Velog-11B48A?style=flat-square&logo=velog&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-esroh1124@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:esroh1124@naver.com) [![Blog](https://img.shields.io/badge/Blog-Velog-11B48A?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sally0715/posts)
 
 
