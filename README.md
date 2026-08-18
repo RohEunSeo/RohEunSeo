@@ -36,7 +36,20 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
+<br>
 
+
+## 🧩 Experience & Activities
+
+| Organization | Period | Detail |
+| :--- | :--- | :--- |
+| SKALA | 2026.07 ~ | SK AI Leader Academy — 생성형 AI 서비스 개발 과정 (진행 중) |
+| PROMETHEUS | 2025.03 ~ 2026.08 | 연합 인공지능 동아리 7기 Junior |
+| LGAimers | 2025.02 | LG AI 연구원 주관 AI 경진대회 5·6·7기 수료 |
+| LG CNS AI Genius | 2025.09 ~ 2025.11 | SW/AI 교육 봉사 — 서포터즈 14기 |
+| 코드하나 | 2025.03 ~ 2025.08 | SW/AI 교육 봉사 — 서포터즈 2기 |
+| GDGoC SSWU | 2024.09 ~ 2025.06 | 교내 연합 동아리 — Google Developer Groups on Campus AI/ML |
+| ToI | 2024.03 ~ 2024.11 | 교내 IT 개발 동아리 — 2기 개발팀·스터디팀 |
 
 <br>
 
