@@ -30,7 +30,7 @@
 
 | Organization | Period | Detail |
 | :--- | :--- | :--- |
-| SKALA | 2026.07 ~ | SK AI Leader Academy — 생성형 AI 서비스 개발 과정 (진행 중) |
+| SKALA | 2026.07 ~ | SK AI Leader Academy 생성형 AI 서비스 과정 & [SKALA-Hub 슬랙 아키이빙 시스템 개발](https://github.com/RohEunSeo/SKALA-Hub) |
 | PROMETHEUS | 2025.03 ~ 2026.08 | 연합 인공지능 동아리 7기 Junior |
 | 멋쟁이사자처럼 AXP 인턴십 | 2026.03 ~ 2026.04 | [로켓단 인턴십 — 사내 온라인 수업 졸음·이탈 감지 시스템 개발](https://github.com/RohEunSeo/Sleep2Wake)|
 | 멋쟁이사자처럼 AICV | 2025.12 ~ 2026.02 | AI 컴퓨터 비전(CV) 3기 부트캠프 수료 |
