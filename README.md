@@ -8,9 +8,7 @@
   />
 </a>
 
-
 <br>
-
 
 ## 🧩 Experience & Activities
 
@@ -38,11 +36,5 @@
 
 
 
-
-<br>
-
-
-## 📮 Contact & Links
-[![Email](https://img.shields.io/badge/Email-esroh1124@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:esroh1124@naver.com) [![Blog](https://img.shields.io/badge/Blog-Velog-11B48A?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sally0715/posts)
 
 
