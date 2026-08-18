@@ -49,6 +49,7 @@
 | 2024.07 | 🥇 [**RE-DESIGN THON 메이커톤 대상 ('지니어스 빗물받이')**](https://news.chosun.com/pan/site/data/html_dir/2024/07/26/2024072601818.html) | 서울과학기술대학교 창업지원단 | ![1st](https://img.shields.io/badge/1st-10팀-gold?style=flat-square) |
 | 2024.08 | 📄 **특허 등록 ('지니어스 빗물받이')** `10-2995447` | 특허청 | 등록 ✅ |
 | 2025.08 | 🥇 [**AI융합학부 IT 경진대회 대상 ('스마트 AIoT 포스기')**](https://github.com/2025-AI-IT/AI-POS) | 성신여자대학교 AI융합학부 | ![1st](https://img.shields.io/badge/1st-20팀-gold?style=flat-square) |
+| 2025.08 | **🥇 코드하나 수료식 우수팀, 🥈 커리큘럼 문제 제작 우수상** | 코드하나 | ![1st](https://img.shields.io/badge/1st-6팀-gold?style=flat-square) |
 | 2025.09 | **LGAimers 7기 Phase 3 본선 진출** | LG AI 연구원 | ![18th](https://img.shields.io/badge/18th-817팀-blue?style=flat-square) |
 | 2026.02 | 🥈 [**MADE IN SUNGSHIN 공모전 최우수상 (PBL 및 캡스톤디자인 부문)**](https://github.com/2025-2-SafeDriveAI/drunk-driving-detection) | 성신여자대학교 | ![2nd](https://img.shields.io/badge/2nd-silver?style=flat-square) |
 | 2026.02 | 🥈 [**멋쟁이사자처럼 AI 컴퓨터 비전(CV) 3기 최종 프로젝트 우수상**](https://github.com/minton-angle/minton-angle) | 멋쟁이사자처럼 | ![2nd](https://img.shields.io/badge/2nd-9팀-silver?style=flat-square) |
